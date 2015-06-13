@@ -1078,6 +1078,8 @@ Report issues and suggest features and improvements on the
 questions on the issue tracker - the mailing list and the IRC channel are the
 places for questions.
 
+If you want to file a bug please clone this repo and provide sufficient details to reproduce the issue starting with `make emacs`.  It's likely that your problem is already fixed on `master` or that it's caused by something or other in your `.emacs`.
+
 ### Patches
 
 Patches under any form are always welcome! GitHub pull requests are even better! :-)
